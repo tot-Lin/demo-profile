@@ -2,14 +2,14 @@ import { Icons } from "@/components/icons";
 import { CodeIcon, HomeIcon, NotebookIcon, PencilLine } from "lucide-react";
 
 export const DATA = {
-  name: "Cheng Zihan",
-  initials: "Zihan",
+  name: "Lin Feng",
+  initials: "Feng",
   url: "https://jet-lab.site",
   location: "Beijing, China",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
     "A seeker of visual aesthetics🛰️I'm focusing on deep learning. ",
-  summary:`I'm currently learning ML , Tensorflow , Pytorch , Golang and AIGC.`,
+  summary:`I'm currently learning Remote sensing , Deep learning , Pytorch , and InSAR.`,
   avatarUrl: "https://avatars.githubusercontent.com/u/83146544?v=4",
   skills: [
     "React",
@@ -67,18 +67,18 @@ export const DATA = {
   ],
   education: [
     {
-      school: "Beijing Jiaotong University",
-      href: "https://www.bjtu.edu.cn/",
+      school: "Peking University",
+      href: "https://www.pku.edu.cn/",
       // 计算机科学硕士学位
-      degree: "Master's Degree in Computer Science",
-      logoUrl: "/bjtu.svg",
+      degree: "Phd's Degree in Geographic",
+      logoUrl: "/pku.svg",
       start: "2024",
       end: "Now",
     },
     {
       school: "Beijing Forestry University",
       href: "https://www.bjfu.edu.cn/",
-      degree: "BASc in Digital Media Technology",
+      degree: "BASc in Computer Science",
       logoUrl: "/bjfu.svg",
       start: "2020",
       end: "2024",
